@@ -16,7 +16,7 @@ functions:
           method: any
           path: /{proxy+}
     environment:
-      #DATABASE: ''
+      #DATABASE: 'ryanwp'
       #USERNAME: ''
       #PASSWORD: Don't set this if you'll be commiting the file, instead use the AWS console or another method like Parameter Store
       #HOST: ''
